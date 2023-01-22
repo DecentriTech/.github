@@ -1,6 +1,10 @@
 # ![DecentriTech](https://github.com/NoahThatsWack/DecentriTech/blob/master/Website/resources/media/png/iconbname.png?raw=true)
 
-DecentriTech is a company working towards creating new and innovative resources, and services for anyone to use!
+Welcome to DecentriTech, a company that's dedicated to shaking things up in the tech industry. We're a group of tech enthusiasts who specialize in software development, video game creation, and all other types of tech services like web development and design.
+
+We understand that the tech industry can be a little bit stale and repetitive, which is why we're committed to pushing boundaries and taking risks. We're not afraid to experiment with new ideas and concepts, and we're always looking for ways to innovate and stand out.
+
+We're not your typical corporate tech company. We're a team of real people who are passionate about what we do and we don't shy away from speaking in real language. Our approach may not be for everyone, but if you're looking for a company that's dedicated to making a real difference in the tech industry, then you're in the right place.
 
 **Our Projects and Services**
 
