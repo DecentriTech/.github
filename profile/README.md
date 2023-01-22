@@ -17,8 +17,7 @@ DecentriTech is a company working towards creating new and innovative resources,
 
 ## About DecentriTech
 
-DecentriTech currently has `three` employees. We currently have `3` active projects under development, and `4` under heavy development. Some projects may not be actively listed as they are considered confidential at the moment.
-The end goal of each project is to provide a **unique**, and **high-quality** service to all users.
+DecentriTech currently has `three` employees. We currently have `3` active projects under development, and `4` under heavy development. Some projects may not be actively listed as they are considered confidential at the moment.The end goal of each project is to provide a **unique**, and **high-quality** service to all users.
 
 While currently our reach is small, eventually we hope to make big changes in the world for the better of humanity. Whether that's space-tech, solving global-warming, etc, we want to help.
 
