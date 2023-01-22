@@ -8,7 +8,7 @@ We're not your typical corporate tech company. We're a team of real people who a
 
 ---
 
-**Our Projects and Services**
+## **Our Projects and Services**
 
 - **[DecentriTech Studios](https://studio.decentritech.com) (Active)**
 - **[Project Proven Extraordinary](https://www.provenextraordinary.com) (Active)**
