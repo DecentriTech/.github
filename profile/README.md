@@ -1,4 +1,4 @@
-# ![DecentriTech](https://github.com/NoahThatsWack/DecentriTech/blob/master/Website/resources/media/png/iconbname.png?raw=true)
+![iconwname](https://user-images.githubusercontent.com/48492587/213899547-4d444a64-5c95-41ae-9e3c-4d305c3d5934.png)
 
 Welcome to DecentriTech, a company that's dedicated to shaking things up in the tech industry. We're a group of tech enthusiasts who specialize in software development, video game creation, and all other types of tech services like web development and design.
 
