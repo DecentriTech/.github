@@ -6,6 +6,8 @@ We understand that the tech industry can be a little bit stale and repetitive, w
 
 We're not your typical corporate tech company. We're a team of real people who are passionate about what we do and we don't shy away from speaking in real language. Our approach may not be for everyone, but if you're looking for a company that's dedicated to making a real difference in the tech industry, then you're in the right place.
 
+---
+
 **Our Projects and Services**
 
 - **[DecentriTech Studios](https://studio.decentritech.com) (Active)**
@@ -19,7 +21,7 @@ We're not your typical corporate tech company. We're a team of real people who a
 
 ---
 
-# About DecentriTech
+## About DecentriTech
 
 DecentriTech currently has `three` employees. We currently have `3` active projects under development, and `4` under heavy development. Some projects may not be actively listed as they are considered confidential at the moment. The end goal of each project is to provide a **unique**, and **high-quality** service to all users.
 
